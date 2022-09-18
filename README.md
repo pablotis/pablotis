@@ -11,7 +11,7 @@ He participado en la organización y difusión de la comunidad de [R en Buenos A
 ### Más de mí:
 
 [![Linkedin: ptiscornia](https://img.shields.io/badge/-ptiscornia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ptiscornia/)](https://www.linkedin.com/in/ptiscornia/)
-[![GitHub Pablotis](https://img.shields.io/github/pablotis?label=Github&style=social)](https://github.com/pablotis)
+[![GitHub pablotis](https://img.shields.io/github/followers/pablotis?label=pablotis&style=social)](https://github.com/pablotis)
 [![Blog](https://img.shields.io/static/v1?label=Blog&message=R+Cosas&color=orange)](https://github.com/pablotis)
 
 <!--
