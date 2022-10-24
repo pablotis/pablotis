@@ -18,7 +18,7 @@ He participado en la organización y difusión de la comunidad de [R en Buenos A
 
 [![Linkedin: ptiscornia](https://img.shields.io/badge/-ptiscornia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ptiscornia/)](https://www.linkedin.com/in/ptiscornia/)
 [![GitHub pablotis](https://img.shields.io/github/followers/pablotis?label=pablotis&style=social)](https://github.com/pablotis)
-[![Blog](https://img.shields.io/static/v1?label=Blog&message=R+Cosas&color=orange)](https://r-cosas.netlify.app/)
+[![Blog](https://img.shields.io/static/v1?label=Blog&message=estacion-R&color=orange)](https://estacion-r.netlify.app/)
 
 <!--
 **pablotis/pablotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
