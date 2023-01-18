@@ -6,8 +6,6 @@ He participado en la organización y difusión de la comunidad de [R en Buenos A
 
 - ⚡ Si el cartel dice Datos Abiertos, R, Software Libre, estadística, metodología o programación, ENTRO.
 
-- 🔭 Actualmente estoy trabajando como Coordinador de Datos en la Dirección de Mercados y Estadística del Ministerio de Turismo y Deportes. Allí desarrollamos el [SINTA](datos.yvera.tur.ar/sinta) y el [Portal de Datos Abiertos](https://datos.yvera.gob.ar/).
-
 ### Más de mí:
 
 <p align="left">
